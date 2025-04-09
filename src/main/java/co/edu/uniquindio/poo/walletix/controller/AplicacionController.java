@@ -1,9 +1,9 @@
-package co.edu.uniquindio.poo.walletix;
+package co.edu.uniquindio.poo.walletix.controller;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
 
-public class HelloController {
+public class AplicacionController {
     @FXML
     private Label welcomeText;
 
